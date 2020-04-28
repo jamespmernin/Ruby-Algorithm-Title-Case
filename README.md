@@ -4,14 +4,19 @@
 
 "Title Case"
 
+_Language: Ruby_
+_Difficulty Rating: Easy_
+
 ### Objectives
 
-- Create an algorithm which takes a string as a parameter.
+- Create an algorithm which takes a string (`str`) as a parameter.
 - The method should capitalize each word within the string.
-- The output should be a new string
+- The output should be a new string.
 
 > i.e.:
+> 
 > input => `fast and the furious`
+> 
 > output => `Fast And The Furious`
 
 ### Getting Started
